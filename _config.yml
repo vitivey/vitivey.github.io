@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Newbie Software Development
 header-img: img/home-bg.png
 email: zindzi.thompson@gmail.com
 copyright_name: vitivey
 description: > # this means to ignore newlines until "baseurl:"
-  
+  1-2-3
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  vitivey
